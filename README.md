@@ -41,7 +41,7 @@ Currently expanding into **cloud computing and distributed systems**, with a foc
 
 ## 🏦 Flagship Project
 
-### Enterprise Vendor Reconciliation System  
+### Enterprise Vendor Payment System  
 ![Repo](https://img.shields.io/badge/View-Repository-black?style=for-the-badge&logo=github)
 
 🔗 https://github.com/HumphreyMahlangu/vendor-payment-system
