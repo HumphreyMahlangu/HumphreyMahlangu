@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samkelo Mahlangu</h1>
+<h1 align="center">Hi, I'm Samkelo Mahlangu</h1>
 
 <h3 align="center">
 Backend Software Developer | Java | Spring Boot | REST APIs | AI Applications
@@ -10,21 +10,21 @@ I'm a final-year Information Technology (Application Development) student at the
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Final-year Information Technology student at **CPUT**
-- 💼 Interested in **Backend Software Engineering**
-- ☕ Strong focus on **Java & Spring Boot**
-- 🤖 Exploring **AI-powered backend applications**
-- 🔐 Currently studying **CompTIA Security+**
-- ☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**
-- 📍 Cape Town, South Africa
+-  Final year Information Technology student at **CPUT**
+-  Interested in **Backend Software Engineering**
+-  Strong focus on **Java & Spring Boot**
+-  Exploring **AI-powered backend applications**
+-  Currently studying **CompTIA Security+**
+-  Microsoft Certified: **Azure Fundamentals (AZ-900)**
+-  Cape Town, South Africa
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📄 FinSight – Financial Document Intelligence Platform
+###  FinSight – Financial Document Intelligence Platform
 
 A Spring Boot backend that enables users to ask natural language questions across PDF documents using Retrieval-Augmented Generation (RAG).
 
@@ -38,7 +38,7 @@ A Spring Boot backend that enables users to ask natural language questions acros
 
 ---
 
-### 📚 Academic Planner
+### Academic Planner
 
 An intelligent study management platform that helps students organize modules, assessments, and study schedules.
 
@@ -51,7 +51,7 @@ An intelligent study management platform that helps students organize modules, a
 
 ---
 
-### 🛍️ RadiantSkin
+### RadiantSkin
 
 Backend for an e-commerce platform built with Spring Boot.
 
@@ -64,7 +64,7 @@ Backend for an e-commerce platform built with Spring Boot.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -100,17 +100,17 @@ Backend for an e-commerce platform built with Spring Boot.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-✅ Microsoft Certified: Azure Fundamentals (AZ-900)
+ Microsoft Certified: Azure Fundamentals (AZ-900)
 
-✅ Red Hat Linux Fundamentals
+Red Hat Linux Fundamentals
 
-📖 CompTIA Security+ (Currently Studying)
+CompTIA Security+ (Currently Studying)
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p>
 
