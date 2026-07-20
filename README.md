@@ -110,18 +110,6 @@ Backend for an e-commerce platform built with Spring Boot.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HumphreyMahlangu&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumphreyMahlangu&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
