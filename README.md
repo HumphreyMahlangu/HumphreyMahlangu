@@ -1,131 +1,84 @@
-<h1 align="center">Hi, I'm Samkelo Mahlangu</h1>
+# Hi, I'm Samkelo Mahlangu
 
-<h3 align="center">
-Backend Software Developer | Java | Spring Boot | REST APIs | AI Applications
-</h3>
+### Full-Stack Developer | Java · Spring Boot · React · TypeScript
 
-<p align="center">
-I'm a final-year Information Technology (Application Development) student at the Cape Peninsula University of Technology (CPUT), passionate about building scalable, secure, and maintainable backend systems. I enjoy solving real-world problems with clean architecture, modern Java technologies, and cloud-native development.
-</p>
+I'm **Samkelo Mahlangu**, a full-stack developer based in **Cape Town, South Africa**, and a final-year **Information Technology (Application Development)** student at the **Cape Peninsula University of Technology**.
 
----
+I work with **Java and Spring Boot** on the backend and **React and TypeScript** on the frontend. I enjoy understanding how an application’s different parts fit together, from the experience someone has on screen to the services and data behind it.
 
-##  About Me
+My interests include **secure application development, cloud engineering, and AI applications**. I’m currently deepening my knowledge of system design and exploring how to integrate AI into useful software.
 
--  Final year Information Technology student at **CPUT**
--  Interested in **Backend Software Engineering**
--  Strong focus on **Java & Spring Boot**
--  Exploring **AI-powered backend applications**
--  Currently studying **CompTIA Security+**
--  Microsoft Certified: **Azure Fundamentals (AZ-900)**
--  Cape Town, South Africa
+I expect to graduate in **2026** and am looking for a **graduate programme, internship, or junior software development role** where I can contribute, learn from experienced engineers, and grow as a full-stack developer.
+
+[LinkedIn](https://www.linkedin.com/in/humphreymahlangu/) · [Email](mailto:humphreysamkelo442@gmail.com) · [GitHub](https://github.com/HumphreyMahlangu)
 
 ---
 
-##  Featured Projects
+## Selected projects
 
-###  FinSight – Financial Document Intelligence Platform
+### VoteTrust / YourVoice
 
-A Spring Boot backend that enables users to ask natural language questions across PDF documents using Retrieval-Augmented Generation (RAG).
+**A full-stack digital voting portfolio project exploring access control, ballot privacy, and verifiable election records.**
 
-**Highlights**
-- AI-powered semantic document search
-- LangChain4j integration
-- Qdrant Vector Database
-- Dockerized deployment
-- GitHub Actions CI/CD
-- MySQL persistence
+- Combines a React and TypeScript frontend with a Spring Boot backend exposing 22 REST endpoints.
+- Uses database constraints, transaction locking, and one-time voting credentials to prevent duplicate and replayed votes.
+- Implements SHA-256 hash chaining to make changes to ballot records detectable.
+- Includes JWT authentication, role-based access, automated tests, Docker packaging, and GitHub Actions workflows.
 
----
+**Stack:** React · TypeScript · Java · Spring Boot · PostgreSQL · Spring Security · Docker
 
-### Academic Planner
+*An educational MVP and technical simulation, not a system for binding public elections.*
 
-An intelligent study management platform that helps students organize modules, assessments, and study schedules.
-
-**Features**
-- JWT Authentication
-- Spring Security
-- Email reminders
-- Analytics Dashboard
-- Background scheduled jobs
-
----
+[Explore the repository →](https://github.com/HumphreyMahlangu/YourVoice)
 
 ### RadiantSkin
 
-Backend for an e-commerce platform built with Spring Boot.
+**A full-stack skincare e-commerce project connecting a customer-facing storefront to product and authentication APIs.**
 
-**Features**
-- REST API
-- Product management
-- Authentication
-- MySQL
-- JPA/Hibernate
+- Builds the storefront with React, TypeScript, and Vite.
+- Uses Spring Boot REST APIs for product management and authentication.
+- Persists application data with MySQL and JPA/Hibernate.
 
----
+**Stack:** React · TypeScript · Vite · Java · Spring Boot · MySQL
 
-## Tech Stack
+### FinSight
 
-### Languages
+**A financial document intelligence backend that answers questions about PDFs with citations to the source material.**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Uses retrieval-augmented generation (RAG) with LangChain4j, Qdrant, and Ollama.
+- Separates document files, relational metadata, and vector embeddings across MinIO, MySQL, and Qdrant.
+- Protects document and query workflows with Spring Security and JWT authentication.
+- Uses Docker and GitHub Actions for repeatable setup and build validation.
 
-### Backend
+**Stack:** Java · Spring Boot · LangChain4j · Ollama · Qdrant · MySQL · MinIO · Docker
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
-### Tools
-
-- Git
-- Maven
-- Linux
-- Docker Compose
-- Qdrant
-- LangChain4j
+[Explore the backend →](https://github.com/HumphreyMahlangu/finsight-backend)
 
 ---
 
-##  Certifications
+## Technologies I work with
 
- Microsoft Certified: Azure Fundamentals (AZ-900)
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, TypeScript, JavaScript, Vite, HTML, CSS |
+| Backend | Java, Spring Boot, Spring MVC, Spring Security, REST APIs |
+| Data & storage | PostgreSQL, MySQL, Spring Data JPA, Hibernate, Flyway, MinIO |
+| AI applications | LangChain4j, Ollama, Qdrant, RAG, semantic search |
+| Cloud & delivery | Microsoft Azure, Docker, Docker Compose, GitHub Actions, Linux |
+| Testing & tools | JUnit, Mockito, Testcontainers, Vitest, Git, Maven |
 
-Red Hat Linux Fundamentals
+## What I'm developing next
 
-CompTIA Security+ (Currently Studying)
+I'm deepening my understanding of **system design, agentic AI, and cloud engineering**, while continuing to improve how I connect frontend experiences, backend services, and deployment workflows.
 
----
+## Certifications
 
-## Connect With Me
+- Microsoft Certified: Azure AI Cloud Developer Associate (AI-200)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Red Hat Linux Fundamentals
 
-<p>
+## Let's connect
 
-<a href="https://linkedin.com/in/humphreymahlangu">
-LinkedIn
-</a>
+I'm looking for a team where I can contribute across the stack, learn from experienced engineers, and take responsibility for features from implementation through deployment.
 
-•
-
-<a href="mailto:godasamukelo757@gmail.com">
-Email
-</a>
-
-</p>
-
----
-
-> "Great software isn't just code that works. It's code that's maintainable, scalable, and solves real problems."
+[Connect on LinkedIn](https://www.linkedin.com/in/humphreymahlangu/) · [Get in touch](mailto:humphreysamkelo442@gmail.com)
